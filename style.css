@@ -1,0 +1,48 @@
+.heading
+{
+font-size:23px;
+width:100%;
+margin:0px;
+box-shadow:5px 5px 5px gray;
+}
+
+.heading_div
+{
+float:none;
+background:white;
+padding:10px;
+border-radius:20px;
+color:black;
+box-shadow:5px 5px 5px grey;
+}
+
+.heading_div2
+{
+font-size:18px;
+}
+
+.objectaccuracy
+{
+box-shadow:5px 5px 5px sandybrown;
+font-size:20px;
+}
+
+.footer
+{
+position: fixed;
+width: 100%;
+bottom: 0;
+background-color: white;
+color: darkblue;
+line-height: 3;
+text-align: left;
+font-size: 10px;
+}
+
+canvas
+{
+border: 5px solid pink;
+border-radius: 20px;
+box-shadow: 5px 5px 5px lightpink;
+margin-top: 150px;
+}
